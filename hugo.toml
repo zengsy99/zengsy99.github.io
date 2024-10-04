@@ -1,5 +1,5 @@
 baseURL = "https://zengsy99.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Siyuan Study Notes'
 
 theme = "hugo-book"
